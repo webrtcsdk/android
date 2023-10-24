@@ -14,7 +14,7 @@ apply plugin: 'io.codearte.nexus-staging'
 nexusStaging {
     serverUrl = "https://s01.oss.sonatype.org/service/local/"
     packageGroup = GROUP
-    stagingProfileId = "550fa82137976"
+    stagingProfileId = "4b37cee1803959"
 }
 
 def getReleaseRepositoryUrl() {
