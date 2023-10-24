@@ -4,7 +4,7 @@ on:
   push:
     # only publish on version tags
     tags:
-      - v*
+      - m*
 
 jobs:
   publish:
