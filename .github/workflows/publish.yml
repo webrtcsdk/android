@@ -2,8 +2,9 @@ name: Publish
 
 on:
   push:
+    # only publish on version tags
     tags:
-      - '*'
+      - v*
 
 jobs:
   publish:
