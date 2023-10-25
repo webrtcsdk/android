@@ -1,6 +1,6 @@
 # android
 
-![](https://maven-badges.herokuapp.com/maven-central/io.github.webrtc-sdk/android/badge.svg)
+![Maven Central](https://img.shields.io/maven-central/v/tech.waterbus/webrtc)
 
 WebRTC pre-compiled library for android.
 
@@ -10,6 +10,6 @@ This library is hosted on Maven Central. To include this library in your project
 
 ```gradle
   dependencies {
-    implementation 'io.github.webrtc-sdk:android:114.5735.05'
+    implementation 'tech.waterbus:webrtc:119.6045.03'
   }
 ```
