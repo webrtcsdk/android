@@ -1,10 +1,15 @@
 # Changelog
 
 --------------------------------------------
+[120.6099.04] - 2023.11.09
+
+* H265 enabled on Android
+* Fixed crash app H265 on iOS
+
 [120.6099.03] - 2023.11.08
 
 * Upgrade to WebRTC-SDK M120.6099.04
-* 
+ 
 [120.6099.01] - 2023.11.04
 
 * Upgrade to WebRTC-SDK M120.6099.04
