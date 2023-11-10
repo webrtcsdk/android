@@ -1,6 +1,10 @@
 # Changelog
 
 --------------------------------------------
+[120.6099.06] - 2023.11.10
+
+* Fixed H265 crash app: FindNaluIndicates
+  
 [120.6099.05] - 2023.11.10
 
 * Fixed H265 crash app - RTC_CHECK_GT(fragment.size(), 0u)
