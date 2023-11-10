@@ -1,6 +1,10 @@
 # Changelog
 
 --------------------------------------------
+[120.6099.05] - 2023.11.10
+
+* Fixed H265 crash app - RTC_CHECK_GT(fragment.size(), 0u)
+  
 [120.6099.04] - 2023.11.09
 
 * H265 enabled on Android
