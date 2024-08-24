@@ -10,6 +10,6 @@ This library is hosted on Maven Central. To include this library in your project
 
 ```gradle
   dependencies {
-    implementation 'tech.waterbus:webrtc:125.6422.03'
+    implementation 'tech.waterbus:webrtc:128.6613.01'
   }
 ```
